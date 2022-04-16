@@ -19,7 +19,7 @@
 * Passionate about __building applications that leverage machine learning__ to solve problems.
 * Skilled in __cleaning, analyzing, visualizing, interpreting insights__ from __data__ and building __machine learning models__.
 * Experienced in __automation testing__ and __building applications (Windows standalone, Android)__.
-* Certified _Tensorflow_ Developer.
+* Certified [_Tensorflow_](https://www.credential.net/e3c33d9f-7213-4b14-b589-215fd0efdc49) Developer.
 <br>
 
 <h3>Skills</h3>
