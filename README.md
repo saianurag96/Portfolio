@@ -9,7 +9,7 @@
 [Resume](https://github.com/saianurag96/Portfolio/blob/main/SaiAnurag_Resume.pdf)
 <br>
 
-> <h3>About Me</h3>
+<h3>About Me</h3>
 
 * I am *Sai Anurag Neelisetty*.
 * __Masters__ in __Electrical and Computer Engineering__ - specialization in __Artificial Intelligence__ at __University of Waterloo, Canada__.
@@ -24,7 +24,7 @@
 * Certified _Tensorflow_ Developer.
 <br>
 
-> <h3>Skills</h3>
+<h3>Skills</h3>
 <!--
 * __Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__ &nbsp; &nbsp; &nbsp; &nbsp; Python, SQL, C #, Java 
 * __ML Libraries &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__  &nbsp; &nbsp; &nbsp; &nbsp; TensorFlow, NLTK, NumPy, Pandas, Scikit-Learn, Matplotlib
@@ -59,7 +59,7 @@ Flask, Heroku</TD>
 </TABLE>
 <br>
 
-> <h3>Experience</h3>
+<h3>Experience</h3>
 * __Machine Learning Engineer__ at _Renault Nissan Technology and Business Centre India (RNTBCI)_ from Jan 2020 to Dec 2020.
   > * Contributed in the development of an automated machine learning (AutoML) web-based application using which employees can request new ML algorithms or use the existing algorithms for their problems. 
   > * Responsible for implementing ML solutions in the backend with Python.
@@ -75,7 +75,7 @@ Flask, Heroku</TD>
   > 4. Vehicle HMI automation.
 <br>
 
-> <h3>Projects</h3>
+<h3>Projects</h3>
 * [__Music2Score__](https://github.com/music2score/music2score): A web application to convert audio files to sheet music. Developed Python scripts to make the conversion
 in the back end, test scripts, containerized the conversion using Docker and set up continuous integration.
 * __Statistical Analysis__: Performed analysis on a survey data from brand X using SPSS, a statistical software. Applied
@@ -86,7 +86,7 @@ behaviour.
 * [__Transfer Learning__](https://github.com/saianurag96/Protein-Lysine-Methylation-using-Convolution-Neural-Network): Lysine (Protein) methylation sites were accurately predicted for imbalanced data using Convolution Neural Networks inspired by VGG architecture.
 <br>
 
-> <h3>Research work</h3>
+<h3>Research work</h3>
 [__Image Colorization using Deep Learning: Literature Review__](https://github.com/saianurag96/Research/blob/main/Image%20Colorization/Image%20Colorization%20using%20Deep%20Learning%20-%20Literature%20Review.pdf)
 ##### Abstract:
 Image colorization is an image-to-image translation problem. It can be considered a pixel-wise regression problem where structures in inputs and outputs are highly aligned. Automatic colorization is an active area of research because of its wide variety of applications. There are several techniques to solve the problem, and the colorization networks used are classified into several categories. This paper aims at studying the state-of-the-art algorithms implemented for the image colorization problem. The work reviews and summarizes three deep learning models with plain network architecture. The inputs to these networks are natural images, and the output is a single image. The primary focus of the papers is on automatic colorization without human intervention.
