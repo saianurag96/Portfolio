@@ -6,7 +6,7 @@
 [Linkedin profile](https://www.linkedin.com/in/saianurag/)
 <br>
 
-[Resume](https://github.com/saianurag96/Portfolio/blob/main/Resume.pdf)
+[Resume](https://github.com/saianurag96/Portfolio/blob/main/SaiAnurag_Resume.pdf)
 <br>
 
 > <h3>About Me</h3>
