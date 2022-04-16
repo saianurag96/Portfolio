@@ -14,6 +14,7 @@
 * I am *Sai Anurag Neelisetty*.
 * __Masters__ in __Electrical and Computer Engineering__ - specialization in __Artificial Intelligence__ at __University of Waterloo, Canada__.
 * __Bachelors__ in __Electrical and Electronics Engineering__ at __Vellore Institute of Technology (VIT), India__.
+
 <br>
 
 * __3.5 years__ of professional experience in the software industry __[Renault Nissan Technology and Business Centre India (RNTBCI)]__.
@@ -65,8 +66,8 @@ __Software Developer__ at _Renault Nissan Technology and Business Centre India (
 <br>
 
 <h3>Projects</h3>
-* [__Music2Score__](https://github.com/music2score/music2score): A web application to convert audio files to sheet music. Developed Python scripts to make the conversion
-in the back end, test scripts, containerized the conversion using Docker and set up continuous integration.
+
+* [__Music2Score__](https://github.com/music2score/music2score): A web application to convert audio files to sheet music. Developed Python scripts to make the conversion in the back end, test scripts, containerized the conversion using Docker and set up continuous integration.
 * __Statistical Analysis__: Performed analysis on a survey data from brand X using SPSS, a statistical software. Applied
 statistical techniques to analyze, interpret and answer multiple questions on the data to understand the customer purchasing
 behaviour.
@@ -75,10 +76,12 @@ behaviour.
 * [__Transfer Learning__](https://github.com/saianurag96/Protein-Lysine-Methylation-using-Convolution-Neural-Network): Lysine (Protein) methylation sites were accurately predicted for imbalanced data using Convolution Neural Networks inspired by VGG architecture.
 <br>
 
-<h3>Research work</h3>
+<h3>Research</h3>
+
 [__Image Colorization using Deep Learning: Literature Review__](https://github.com/saianurag96/Research/blob/main/Image%20Colorization/Image%20Colorization%20using%20Deep%20Learning%20-%20Literature%20Review.pdf)
 ##### Abstract:
 Image colorization is an image-to-image translation problem. It can be considered a pixel-wise regression problem where structures in inputs and outputs are highly aligned. Automatic colorization is an active area of research because of its wide variety of applications. There are several techniques to solve the problem, and the colorization networks used are classified into several categories. This paper aims at studying the state-of-the-art algorithms implemented for the image colorization problem. The work reviews and summarizes three deep learning models with plain network architecture. The inputs to these networks are natural images, and the output is a single image. The primary focus of the papers is on automatic colorization without human intervention.
+
 
 [__Image Colorization Enhancement using Transfer Learning__](https://link-url-here.org)
 
