@@ -25,18 +25,6 @@
 <br>
 
 <h3>Skills</h3>
-<!--
-* __Languages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__ &nbsp; &nbsp; &nbsp; &nbsp; Python, SQL, C #, Java 
-* __ML Libraries &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__  &nbsp; &nbsp; &nbsp; &nbsp; TensorFlow, NLTK, NumPy, Pandas, Scikit-Learn, Matplotlib
-* __Technologies & Tools &nbsp; &nbsp; :__ &nbsp; &nbsp; &nbsp; &nbsp; Spark, AzureML, SPSS, Docker, Git, Jenkins, Circle CI, Jira,
-Flask, Heroku
-* __Databases &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__ &nbsp; &nbsp; &nbsp; &nbsp; MySQL, MongoDB
-* __Cloud &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__ &nbsp; &nbsp; &nbsp; &nbsp; Azure
-* __Testing tools &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :__ &nbsp; &nbsp; &nbsp; &nbsp; PyTest, Robot Framework, Appium, JUnit, Cucumber
-
--->
-<br>
-
 <TABLE BORDER='2'>
 <TR>
 <TD>Languages</TD>
@@ -60,19 +48,20 @@ Flask, Heroku</TD>
 <br>
 
 <h3>Experience</h3>
-* __Machine Learning Engineer__ at _Renault Nissan Technology and Business Centre India (RNTBCI)_ from Jan 2020 to Dec 2020.
-  > * Contributed in the development of an automated machine learning (AutoML) web-based application using which employees can request new ML algorithms or use the existing algorithms for their problems. 
-  > * Responsible for implementing ML solutions in the backend with Python.
-  > * Developed machine learning prototypes to solve client case studies like predicting product weights to mitigate manual errors, Classifying custom codes of automobile parts to make the manual code assignment faster.
 
-* __Software Developer__ at _Renault Nissan Technology and Business Centre India (RNTBCI)_ from July 2017 to Dec 2019.
-  > * Developed Augmented reality/Virtual reality apps for business use-cases. 
-  > * Developed new features and maintained the repository of a Windows-based standalone application that interacts with CAN bus and provides a GUI to visualize CAN signals.
-  > * Contributed to the End to End Automation team, where I was responsible for:
-  > 1. Automating the testing of connected car service APIs.
-  > 2. Contributing to the development of Windows and Linux-based test frameworks.
-  > 3. Testing the performance of these services.
-  > 4. Vehicle HMI automation.
+__Machine Learning Engineer__ at _Renault Nissan Technology and Business Centre India (RNTBCI)_ from Jan 2020 to Dec 2020.
+* Contributed in the development of an automated machine learning (AutoML) web-based application using which employees can request new ML algorithms or use the existing algorithms for their problems. 
+* Responsible for implementing ML solutions in the backend with Python.
+* Developed machine learning prototypes to solve client case studies like predicting product weights to mitigate manual errors, Classifying custom codes of automobile parts to make the manual code assignment faster.
+
+__Software Developer__ at _Renault Nissan Technology and Business Centre India (RNTBCI)_ from July 2017 to Dec 2019.
+* Developed Augmented reality/Virtual reality apps for business use-cases. 
+* Developed new features and maintained the repository of a Windows-based standalone application that interacts with CAN bus and provides a GUI to visualize CAN signals.
+* Contributed to the End to End Automation team, where I was responsible for:
+1. Automating the testing of connected car service APIs.
+2. Contributing to the development of Windows and Linux-based test frameworks.
+3. Testing the performance of these services.
+4. Vehicle HMI automation.
 <br>
 
 <h3>Projects</h3>
