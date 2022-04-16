@@ -14,9 +14,6 @@
 * I am *Sai Anurag Neelisetty*.
 * __Masters__ in __Electrical and Computer Engineering__ - specialization in __Artificial Intelligence__ at __University of Waterloo, Canada__.
 * __Bachelors__ in __Electrical and Electronics Engineering__ at __Vellore Institute of Technology (VIT), India__.
-
-<br>
-
 * __3.5 years__ of professional experience in the software industry __[Renault Nissan Technology and Business Centre India (RNTBCI)]__.
 * Experienced in __Agile__ methodologies.
 * Passionate about __building applications that leverage machine learning__ to solve problems.
